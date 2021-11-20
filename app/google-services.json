@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359351986640",
+    "project_id": "mycookingshare",
+    "storage_bucket": "mycookingshare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359351986640:android:66c05e0a86853aa4f271d5",
+        "android_client_info": {
+          "package_name": "com.nvd.mycookingshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359351986640-prg5fjv4lidsu440ijrrf47m99ngadkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIXnqLbhEBgkYv-WMXuC8dggCeXcVGGhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359351986640-prg5fjv4lidsu440ijrrf47m99ngadkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
